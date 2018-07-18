@@ -1,0 +1,11 @@
+.todo-item {
+  background-color: lightslategray;
+  margin: 5%;
+  border-radius: 5%;
+  padding: 15px;
+  border: black 3px solid;
+}
+
+.task {
+  color: darkred;
+}
